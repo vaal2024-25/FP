@@ -17,4 +17,5 @@
 _italika_
 ***negrita italika***
 
-![descripcion de imagen] (https://sinergiaformacion.es/wp-content/uploads/2014/12/fundamentos-programacion-bases-datos.jpg)
+(![image](https://github.com/user-attachments/assets/7fefe6fb-7b1b-465c-869a-cf7ae39fbabc)
+
